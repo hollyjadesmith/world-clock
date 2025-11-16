@@ -1,0 +1,10 @@
+body {
+  background-color: #f5f1fe;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  background-color: #f7f3ff;
+  box-shadow: 2px -4px 20px 0px rgba(0, 0, 0, 0.58);
+}
